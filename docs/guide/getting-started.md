@@ -43,7 +43,7 @@ See all the ways that you can [install Cargo Lambda](/guide/installation) in you
 The [new](/commands/new) subcommand will help you create a new project with a default template. When that's done, change into the new directory:
 
 ```sh
-cargo lambda new new-lambda-project \
+cargo-lambda lambda new new-lambda-project \
     && cd new-lambda-project
 ```
 
